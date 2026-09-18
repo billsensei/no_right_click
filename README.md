@@ -3,6 +3,9 @@
 A Moodle 5.1 `quizaccess` subplugin that adds a **client-side content-protection
 deterrent** to the Quiz activity.
 
+## This is Beta Code
+** Test in a sand boxed environment before deploying
+
 ## What this is
 
 When enabled on a quiz, the live attempt page (`mod/quiz/attempt.php`) will,
